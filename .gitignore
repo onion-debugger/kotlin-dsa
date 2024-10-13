@@ -28,7 +28,6 @@ out/
 !**/src/test/**/out/
 .idea
 kotlin-dsa.iml
-
 ### Kotlin ###
 .kotlin
 
@@ -55,4 +54,4 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store.idea
